@@ -4,7 +4,7 @@
 #2
 #3
 
-full link: https://github.com/wxiaoguang/playground/issues/4
+full link: https://github.com/wxiaoguang/playground/issues/1
 
 
 ## a啊啊b
