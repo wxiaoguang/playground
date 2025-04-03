@@ -12,3 +12,5 @@ full link: https://github.com/wxiaoguang/playground/issues/1
 ## c🤔️🤔️d
 
 ## e.~f
+
+<a href="docs/a.png"><img src="docs/a.png" width="40%"></a>
