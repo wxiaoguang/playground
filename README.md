@@ -15,4 +15,4 @@ full link: https://github.com/wxiaoguang/playground/issues/1
 
 <a href="#the-id">anchor id</a>
 
-<a href="docs/a.png"><img src="docs/a.png" width="40%"></a>
+<a href="/docs/a.png"><img src="/docs/a.png" width="40%"></a>
